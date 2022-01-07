@@ -14,5 +14,5 @@ Hello, my name is Sergey! I am a Frontend-developer
 ![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor)
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React&logoColor)
 ![Redux](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=Redux&logoColor)
-![Git](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=Git&logoColor)
+![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git&logoColor)
 ![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=GitHub&logoColor)
