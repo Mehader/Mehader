@@ -1,6 +1,6 @@
 ![Header](https://github.com/Mehader/Mehader/blob/main/my-logo.gif)
 
-Hello, my name is Sergey! I am a Frontend-developer
+Hello, my name is Sergey! I am a Front-end developer
 
 
 **Contact with me**
