@@ -1,5 +1,3 @@
-# Welcome to my domain!
-
 ![Header](https://github.com/Mehader/Mehader/blob/main/my-logo.gif)
 
 Hello, my name is Sergey! I am a Frontend-developer
