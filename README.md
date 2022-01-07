@@ -1,6 +1,6 @@
 # Welcome to my domain!
 
-(https://github.com/Mehader/Mehader/blob/main/my-logo.gif)
+![Header](https://github.com/Mehader/Mehader/blob/main/my-logo.gif)
 
 Hello, my name is Sergey! I am a Frontend-developer
 
